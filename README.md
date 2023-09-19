@@ -40,7 +40,5 @@ If you have any questions, issues, or feedback, please feel free to contact me a
 
 
 
-Support or Contact
-If you have any questions, issues, or feedback, please feel free to contact me at 24mclough@pentacareercenter.org.
 
 
