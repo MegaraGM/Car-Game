@@ -11,9 +11,7 @@ Multiple car options with unique attributes.
 Diverse racing tracks.
 Realistic car physics and controls.
 
-Installation
 
-Clone this repository to your local machine using http://localhost:51289/
 Controls
 
 Use the arrow keys or WASD to control the car.
