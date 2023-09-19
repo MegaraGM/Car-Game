@@ -13,9 +13,7 @@ Realistic car physics and controls.
 
 Installation
 
-Clone this repository to your local machine using git clone https://github.com/MegaraGM/unity-car-game.git.
-Open the project in Unity (Unity version 2022.3.7f1 recommended).
-Load the main scene located in Assets/Scenes/MainScene.unity.
+Clone this repository to your local machine using http://localhost:51289/
 Controls
 
 Use the arrow keys or WASD to control the car.
